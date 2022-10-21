@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mywebsite"
+  site-url: "https://hamelsmu.github.io/mywebsite"
+  description: "demo"
+  repo-branch: main
+  repo-url: "https://github.com/hamelsmu/mywebsite"
